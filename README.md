@@ -26,9 +26,9 @@
 :arrow_up: [к оглавлению](#оглавление)
 
 **О структуре проекта:**
-* [HH_project](/HH_project/) - папка с основными файлами проекта
-* [requirements.txt](/HH_project/requirements.txt) - код воспроизводим: зафиксированы версии библиотек в виде файла requirements.txt или иного формата файлов конфигураций.
-* [HH_project.ipynb](/HH_project/HH_Project.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+* [SQL_HH_files](/SQL_HH_files/) - папка с основными файлами проекта
+* [requirements.txt](/SQL_HH_files/requirements.txt) - код воспроизводим: зафиксированы версии библиотек в виде файла requirements.txt или иного формата файлов конфигураций.
+* [HH_project.ipynb](/SQL_HH_files/Project_2_HH_SQL.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 
 **Условия задачи:**  
 > Представлена база вакансий, в виде SQL таблиц. Задача заключается в проведении различного вида анализов базы вакансий.
