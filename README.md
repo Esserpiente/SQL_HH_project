@@ -77,7 +77,7 @@
 ### :arrow_forward: Установка проекта
 
 ```
-git clone https://github.com/Esserpiente/HH_project
+git clone https://github.com/Esserpiente/SQL_HH_project.git
 ```
 
 ### :arrow_forward: Авторы
